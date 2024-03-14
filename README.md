@@ -1,12 +1,16 @@
-<h1>Hi, I'm Midzi! <br/> Aspiring Cybersecurity Analyst, Aspiring Programmer, <br/> Full-Time Studen</h1>
+<h1>Hi, I'm Midzi! <br/> Aspiring Cybersecurity Analyst, Aspiring Programmer, <br/> Full-Time Student</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👮🏽 Cybersecurity Projects:</h2>
 <h2>👨‍💻 Software Development Projects:</h2>
+
+<h2>🌱 I’m currently learning</h2>
+
+- <b>Google Cybersecurity Professional Certificate</b>
+  - [Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity/home/module/4)
+
 <h2> 🤳 Connect with me:</h2>
 
-
 [<img align="left" alt="MidziRibery | LinkedIn" width="22px" src="https://github.com/MidziRibery/cybersecurity-portfolio/assets/109605580/7a6ac399-f835-49fb-87bc-4f6419591a8a)" />][linkedin]
-
 
 [linkedin]: https://www.linkedin.com/in/muhammad-termidzi-bin-azmi/
 
